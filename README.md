@@ -4,13 +4,15 @@ Repository for creating the VS Code Profile for C++ and testing it with a basic 
 
 Here are the following steps I used to create thsi VSCode Profile.
 
-Setting up a C++ development environment in VS Code with CMake and Ninja involves a few key extensions and configuration steps. I'll guide you through creating a custom VS Code profile tailored for this project.
+Setting up a C++ development environment in VS Code with CMake and Ninja involves a few key extensions and configuration steps.
 
 ## Steps to Set Up the C++ Development Profile with CMake and Ninja:
+
 ### 1. Create a New Profile:
 - Open the Command Palette (**Ctrl+Shift+P** or **Cmd+Shift+P**).
 - Search for "***Profiles: Create Profile.***"
 - Name the profile something like "***C++ Development with CMake & Ninja.***"
+
 ### 2. Install the Required Extensions:
 You'll need a few extensions to work efficiently with C++, CMake, and Ninja in VS Code.
 
@@ -35,6 +37,7 @@ You'll need a few extensions to work efficiently with C++, CMake, and Ninja in V
 
 - Go to the Extensions view (**Ctrl+Shift+X** or **Cmd+Shift+X**).
 - Search for and install the above extensions by name or using their extension ID.
+
 ### 3. Install CMake and Ninja:
 You’ll need to install CMake and Ninja on your system:
 
@@ -62,6 +65,7 @@ The CMake Tools extension integrates with CMake and allows you to configure, bui
     "cmake.buildArgs": ["--target", "all"]
 }
 ```
+
 ### 5. Configure the Debugger:
 The C++ extension provides integrated debugging support using ***gdb*** or ***lldb***.
 
@@ -115,10 +119,14 @@ The C++ extension provides integrated debugging support using ***gdb*** or ***ll
 }
 ```
 - This will allow you to build and debug your C++ projects directly in VS Code.
+
 ### 6. Test the Profile:
 -  a small C++ project with **CMakeLists.txt**.
 - Use CMake and Ninja to configure and build the project.
 - Test the build process by running the "***CMake: Build***" command.
 - Set breakpoints and use the debugger to verify that debugging works properly.
+
 ### 7. Export and Save the Profile:
 Once you have verified the configuration, you can export this profile and push it to your GitHub repository.
+
+---
