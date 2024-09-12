@@ -1,6 +1,0 @@
-# ninja log v5
-2	509	1726143020717443213	CMakeFiles/cplusplus-profile-test.dir/src/main.cpp.o	e7935e43636ec780
-2	727	1726143020935445115	CMakeFiles/cplusplus-profile-test.dir/src/utils..cpp.o	534db70c9ed8a154
-727	833	1726143021040446031	cplusplus-profile-test	a8284d6e3afc060f
-3	672	1726143114858279655	CMakeFiles/cplusplus-profile-test.dir/src/utils..cpp.o	534db70c9ed8a154
-672	771	1726143114956280540	cplusplus-profile-test	a8284d6e3afc060f

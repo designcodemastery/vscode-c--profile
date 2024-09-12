@@ -1,3 +1,0 @@
-/home/martin/Code/vscode-cplusplus-profile/build/CMakeFiles/cplusplus-profile-test.dir
-/home/martin/Code/vscode-cplusplus-profile/build/CMakeFiles/edit_cache.dir
-/home/martin/Code/vscode-cplusplus-profile/build/CMakeFiles/rebuild_cache.dir
