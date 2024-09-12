@@ -6,6 +6,6 @@ int main(){
     showDate();
     showTime();
     showTimeZone();
-    std::cout << std::endl << "Thats all for now folks...THE END" << std::endl;
+    std::cout << std::endl << "cplusplus-profile-test completed!" << std::endl;
     return 0;
 }
